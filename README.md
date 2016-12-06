@@ -6,10 +6,14 @@
 - Develop a similar extension for other browsers once the chrome extension is almost fully developed.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Fiddles for testing the extension
 =======
 Filldles for testing the extension
 >>>>>>> 942f94f... Added Comments. Added link to testing fiddles in README
+=======
+Filddles for testing the extension
+>>>>>>> 894f35e... Updated README
 
 - [ Right Click is disabled ] (https://jsfiddle.net/3xwy52yx/)
 - [ Cut, Copy and Paste disabled (Method 1) ] (https://jsfiddle.net/dytxxp9u/)
