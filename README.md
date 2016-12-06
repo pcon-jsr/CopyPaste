@@ -5,7 +5,11 @@
 - Main aim is to make the extension user friendly and compatible with as many websites as possible.
 - Develop a similar extension for other browsers once the chrome extension is almost fully developed.
 
+<<<<<<< HEAD
 Fiddles for testing the extension
+=======
+Filldles for testing the extension
+>>>>>>> 942f94f... Added Comments. Added link to testing fiddles in README
 
 - [ Right Click is disabled ] (https://jsfiddle.net/3xwy52yx/)
 - [ Cut, Copy and Paste disabled (Method 1) ] (https://jsfiddle.net/dytxxp9u/)
